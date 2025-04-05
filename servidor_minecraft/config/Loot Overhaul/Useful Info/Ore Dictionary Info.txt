@@ -9,7 +9,6 @@
 
 
 Amethyst
-oresabovediamonds:amethyst - 0
 
 
 BlackOpal
@@ -33,7 +32,6 @@ mekanism:atomicalloy - 0
 
 
 amethyst
-oresabovediamonds:amethyst - 0
 
 
 arrow
@@ -99,7 +97,6 @@ blockAmethyst
 biomesoplenty:gem_block - 0
 mysticalworld:amethyst_block - 0
 netherex:amethyst_block - 0
-oresabovediamonds:amethyst_block - 0
 
 
 blockArdite
@@ -163,7 +160,6 @@ immersiveengineering:storage - 6
 blockCopper
 mekanism:basicblock - 12
 immersiveengineering:storage - 0
-mysticalworld:copper_block - 0
 
 
 blockDiamond
@@ -494,7 +490,6 @@ immersiveengineering:sheetmetal - 5
 
 blockSilver
 immersiveengineering:storage - 3
-mysticalworld:silver_block - 0
 
 
 blockSlime
@@ -674,8 +669,6 @@ chest
 minecraft:chest - 0
 minecraft:ender_chest - 0
 minecraft:trapped_chest - 0
-quark:custom_chest - any
-quark:custom_chest_trap - any
 minecraft:white_shulker_box - 0
 minecraft:orange_shulker_box - 0
 minecraft:magenta_shulker_box - 0
@@ -700,12 +693,10 @@ minecraft:ender_chest - 0
 
 chestTrapped
 minecraft:trapped_chest - 0
-quark:custom_chest_trap - any
 
 
 chestWood
 minecraft:chest - 0
-quark:custom_chest - any
 
 
 circuitAdvanced
@@ -1215,7 +1206,6 @@ minecraft:potato - 0
 
 cropPumpkin
 minecraft:pumpkin - 0
-harvestcraft:harvestpumpkinitem - 0
 
 
 cropQuinoa
@@ -1553,7 +1543,6 @@ immersiveengineering:metal - 15
 dustCopper
 mekanism:dust - 3
 immersiveengineering:metal - 9
-mysticalworld:copper_dust - 0
 
 
 dustDiamond
@@ -1728,7 +1717,6 @@ immersiveengineering:material - 24
 dustSilver
 mekanism:dust - 5
 immersiveengineering:metal - 12
-mysticalworld:silver_dust - 0
 
 
 dustSteel
@@ -1746,14 +1734,6 @@ dustSulphur
 
 dustTin
 mekanism:dust - 4
-
-
-dustTinyCopper
-mysticalworld:copper_dust_tiny - 0
-
-
-dustTinySilver
-mysticalworld:silver_dust_tiny - 0
 
 
 dustUranium
@@ -2060,6 +2040,11 @@ biomesoplenty:flower_0 - 12
 
 flowerYellow
 minecraft:yellow_flower - 0
+
+
+fluix
+appliedenergistics2:material - 7
+appliedenergistics2:material - 12
 
 
 foodAkutuq
@@ -5884,7 +5869,6 @@ biomesoplenty:gem - 0
 mysticalworld:amethyst_gem - 0
 wings:amethyst - 0
 netherex:amethyst_crystal - 0
-oresabovediamonds:amethyst - 0
 
 
 gemBiotite
@@ -6035,7 +6019,6 @@ immersiveengineering:metal - 6
 ingotCopper
 mekanism:ingot - 5
 immersiveengineering:metal - 0
-mysticalworld:copper_ingot - 0
 
 
 ingotDrulloy
@@ -6130,7 +6113,6 @@ ingotSignalum
 
 ingotSilver
 immersiveengineering:metal - 3
-mysticalworld:silver_ingot - 0
 
 
 ingotSteel
@@ -6191,6 +6173,13 @@ mysticalworld:cooked_squid - 0
 
 ingredientVegNugget
 mysticalworld:aubergine - 0
+
+
+inscriberPress
+appliedenergistics2:material - 13
+appliedenergistics2:material - 14
+appliedenergistics2:material - 15
+appliedenergistics2:material - 19
 
 
 itemAlloyEnriched
@@ -6361,8 +6350,6 @@ harvestcraft:sisalitem - 0
 
 listAllfishcooked
 harvestcraft:cookedtofishitem - 0
-minecraft:cooked_cod - 0
-minecraft:cooked_salmon - 0
 minecraft:cooked_fish - 0
 minecraft:cooked_fish - 1
 harvestcraft:calamaricookeditem - 0
@@ -6371,10 +6358,6 @@ betteranimalsplus:crab_meat_cooked - 0
 
 
 listAllfishfresh
-minecraft:cod - 0
-minecraft:salmon - 0
-minecraft:clownfish - 0
-minecraft:pufferfish - 0
 minecraft:fish - any
 harvestcraft:calamarirawitem - 0
 harvestcraft:anchovyrawitem - 0
@@ -6398,10 +6381,6 @@ mysticalworld:raw_squid - 0
 
 listAllfishraw
 harvestcraft:rawtofishitem - 0
-minecraft:cod - 0
-minecraft:salmon - 0
-minecraft:clownfish - 0
-minecraft:pufferfish - 0
 harvestcraft:groundfishitem - 0
 minecraft:fish - any
 harvestcraft:calamarirawitem - 0
@@ -6569,12 +6548,12 @@ harvestcraft:cookedtofabbititem - 0
 harvestcraft:cookedtofurkeyitem - 0
 harvestcraft:cookedtofenisonitem - 0
 harvestcraft:cookedtofuduckitem - 0
-minecraft:cooked_chicken - 0
 minecraft:cooked_beef - 0
+minecraft:cooked_chicken - 0
 minecraft:cooked_porkchop - 0
 minecraft:cooked_mutton - 0
-minecraft:cooked_rabbit - 0
 harvestcraft:turkeycookeditem - 0
+minecraft:cooked_rabbit - 0
 harvestcraft:venisoncookeditem - 0
 harvestcraft:duckcookeditem - 0
 mysticalworld:cooked_venison - 0
@@ -6594,11 +6573,6 @@ harvestcraft:rawtofabbititem - 0
 harvestcraft:rawtofurkeyitem - 0
 harvestcraft:rawtofenisonitem - 0
 harvestcraft:rawtofuduckitem - 0
-minecraft:chicken - 0
-minecraft:beef - 0
-minecraft:porkchop - 0
-minecraft:mutton - 0
-minecraft:rabbit - 0
 harvestcraft:groundbeefitem - 0
 harvestcraft:groundchickenitem - 0
 harvestcraft:groundduckitem - 0
@@ -6608,7 +6582,12 @@ harvestcraft:groundporkitem - 0
 harvestcraft:groundrabbititem - 0
 harvestcraft:groundturkeyitem - 0
 harvestcraft:groundvenisonitem - 0
+minecraft:beef - 0
+minecraft:chicken - 0
+minecraft:porkchop - 0
+minecraft:mutton - 0
 harvestcraft:turkeyrawitem - 0
+minecraft:rabbit - 0
 harvestcraft:venisonrawitem - 0
 harvestcraft:duckrawitem - 0
 mysticalworld:venison - 0
@@ -6868,11 +6847,10 @@ listAllveggie
 minecraft:carrot - 0
 minecraft:potato - 0
 minecraft:pumpkin - 0
-harvestcraft:harvestpumpkinitem - 0
-minecraft:beetroot - 0
 harvestcraft:asparagusitem - 0
 harvestcraft:beanitem - 0
 harvestcraft:beetitem - 0
+minecraft:beetroot - 0
 harvestcraft:broccoliitem - 0
 harvestcraft:caulifloweritem - 0
 harvestcraft:celeryitem - 0
@@ -7038,6 +7016,8 @@ minecraft:stone - 1
 minecraft:stone - 3
 minecraft:stone - 5
 minecraft:cobblestone - 0
+quark:limestone - 0
+quark:marble - 0
 
 
 mushroomAny
@@ -7097,7 +7077,6 @@ immersiveengineering:metal - 26
 nuggetCopper
 mekanism:nugget - 5
 immersiveengineering:metal - 20
-mysticalworld:copper_nugget - 0
 
 
 nuggetDiamond
@@ -7172,7 +7151,6 @@ mekanism:nugget - 0
 
 nuggetSilver
 immersiveengineering:metal - 23
-mysticalworld:silver_nugget - 0
 
 
 nuggetSteel
@@ -7231,7 +7209,6 @@ biomesoplenty:gem_ore - 7
 
 oreAmethyst
 biomesoplenty:gem_ore - 0
-mysticalworld:amethyst_ore - 0
 wings:amethyst_ore - 0
 netherex:amethyst_ore - 0
 oresabovediamonds:amethyst_ore - 0
@@ -7282,7 +7259,6 @@ oreConstantan
 oreCopper
 mekanism:oreblock - 1
 immersiveengineering:ore - 0
-mysticalworld:copper_ore - 0
 
 
 oreDiamond
@@ -7608,7 +7584,6 @@ biomesoplenty:gem_ore - 6
 
 oreSilver
 immersiveengineering:ore - 3
-mysticalworld:silver_ore - 0
 
 
 oreSteel
@@ -8044,7 +8019,6 @@ tconstruct:stone_stick - any
 
 
 salmonRaw
-minecraft:salmon - 0
 minecraft:fish - 0
 
 
@@ -8770,6 +8744,9 @@ stickWood
 minecraft:stick - 0
 biomesoplenty:bamboo - 0
 biomesoplenty:plant_1 - 5
+
+
+stickwood
 
 
 stone

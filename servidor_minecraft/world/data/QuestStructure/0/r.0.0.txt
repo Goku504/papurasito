@@ -1,0 +1,2 @@
+StonePlantMound,-289,-284,-223,-218
+SmallCart,-178,-174,-104,-97

@@ -206,31 +206,6 @@ toughasnails:long_heat_resistance_type
        toughasnails:heat_resistance - 2400 - 0 - false - true
 
 
-extratan:temperature_resistance
-   - Effects: 
-       extratan:temperature_resistance - 3600 - 0 - false - true
-
-
-extratan:temperature_immunity
-   - Effects: 
-       extratan:temperature_immunity - 2400 - 0 - false - true
-
-
-quark:resilience
-   - Effects: 
-       quark:resilience - 3600 - 0 - false - true
-
-
-quark:long_resilience
-   - Effects: 
-       quark:resilience - 9600 - 0 - false - true
-
-
-quark:strong_resilience
-   - Effects: 
-       quark:resilience - 1800 - 1 - false - true
-
-
 quark:haste
    - Effects: 
        minecraft:haste - 3600 - 0 - false - true
@@ -284,6 +259,21 @@ quark:danger_sight
 quark:long_danger_sight
    - Effects: 
        quark:danger_sight - 9600 - 0 - false - true
+
+
+quark:resilience
+   - Effects: 
+       quark:resilience - 3600 - 0 - false - true
+
+
+quark:long_resilience
+   - Effects: 
+       quark:resilience - 9600 - 0 - false - true
+
+
+quark:strong_resilience
+   - Effects: 
+       quark:resilience - 1800 - 1 - false - true
 
 
 mowziesmobs:poison_resist
@@ -374,121 +364,6 @@ srparasites:link
 srparasites:pivot
    - Effects: 
        srparasites:pivot - 2400 - 0 - false - true
-
-
-xat:sparkling
-   - Effects: 
-       xat:sparkling - 0 - 0 - false - true
-
-
-xat:glittering
-   - Effects: 
-       xat:glittering - 0 - 0 - false - true
-
-
-xat:glowing
-   - Effects: 
-       xat:glowing - 0 - 0 - false - true
-
-
-xat:ice_resistance
-   - Effects: 
-       xat:ice_resistance - 3600 - 0 - false - true
-
-
-xat:extended_ice_resistance
-   - Effects: 
-       xat:ice_resistance - 9600 - 0 - false - true
-
-
-xat:lightning_resistance
-   - Effects: 
-       xat:lightning_resistance - 3600 - 0 - false - true
-
-
-xat:extended_lightning_resistance
-   - Effects: 
-       xat:lightning_resistance - 9600 - 0 - false - true
-
-
-xat:human
-   - Effects: 
-       xat:human - 3600 - 0 - false - true
-
-
-xat:extended_human
-   - Effects: 
-       xat:human - 10800 - 0 - false - true
-
-
-xat:fairy
-   - Effects: 
-       xat:fairy - 1200 - 0 - false - true
-
-
-xat:extended_fairy
-   - Effects: 
-       xat:fairy - 3600 - 0 - false - true
-
-
-xat:dwarf
-   - Effects: 
-       xat:dwarf - 1200 - 0 - false - true
-
-
-xat:extended_dwarf
-   - Effects: 
-       xat:dwarf - 3600 - 0 - false - true
-
-
-xat:titan
-   - Effects: 
-       xat:titan - 1200 - 0 - false - true
-
-
-xat:extended_titan
-   - Effects: 
-       xat:titan - 3600 - 0 - false - true
-
-
-xat:goblin
-   - Effects: 
-       xat:goblin - 1200 - 0 - false - true
-
-
-xat:extended_goblin
-   - Effects: 
-       xat:goblin - 3600 - 0 - false - true
-
-
-xat:elf
-   - Effects: 
-       xat:elf - 1200 - 0 - false - true
-
-
-xat:extended_elf
-   - Effects: 
-       xat:elf - 3600 - 0 - false - true
-
-
-xat:faelis
-   - Effects: 
-       xat:faelis - 1200 - 0 - false - true
-
-
-xat:extended_faelis
-   - Effects: 
-       xat:faelis - 3600 - 0 - false - true
-
-
-xat:dragon
-   - Effects: 
-       xat:dragon - 1200 - 0 - false - true
-
-
-xat:extended_dragon
-   - Effects: 
-       xat:dragon - 3600 - 0 - false - true
 
 
 mujmajnkraftsbettersurvival:blindness

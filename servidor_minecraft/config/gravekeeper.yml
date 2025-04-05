@@ -28,7 +28,7 @@ general {
     # Time in seconds after which other players will be able to collect ones grave
     # Use 0 to have an instant expiration and anyone is able to pick up the grave instantly
     # Use -1 or lower to remove expiration and only the owner will ever be able to pick up the grave
-    I:expire_time=7200
+    I:expire_time=0
 
     # Whether the chests should still spawn when keepInventory is enabled
     B:ignore_keep_inventory=false
@@ -96,6 +96,7 @@ soulbound {
     S:soulbound_tags <
         { "Botania_keepIvy": 1b }
         { "spectreAnchor": 0b }
+        {"TinkerData":{"Modifiers":"soulbound"}}
      >
 }
 
